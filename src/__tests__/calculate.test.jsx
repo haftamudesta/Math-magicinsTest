@@ -49,4 +49,10 @@ describe('Check calculate function behavior according to the operation', () => {
     addDot = calculate(addDot, '33');
     expect(addDot).toEqual({ total: null, next: '83.33' });
   });
+
+  test('Multiply operation button', () => {
+    expect(calculate({ total: '10', next: '5', operation: 'x' }, '=')).toEqual(
+      { total: '50', next: null, operation: null }
+    );
+  });
 });
