@@ -6,7 +6,10 @@
 }
 
 .title {
-  margin-left: 35%;
+  margin-left: 39%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: black;
   width: 400px;
   color: #e5ff7f;
