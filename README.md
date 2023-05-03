@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><b>Math Magicians setup</b></h3>
+  <h3><b>Math Magicians Testing</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -105,11 +105,11 @@ This one will install Stylelint:
 
 ### Usage
 
-To run the project,clone the project from https://github.com/haftamudesta/Math-Magicians
+To run the project,clone the project from https://github.com/haftamudesta/Math-MagiciansTest
 
 > use the command git checkout component to go to the component dirctory
 > to create react use npm create vite@latest -- --template react
-> to install all raect dependencies use npm install after installing reat
+> to install all raect dependencies use npm install after installing react
 > to run the code use npm run dev
 
 ## 👥 Authors
@@ -120,14 +120,7 @@ To run the project,clone the project from https://github.com/haftamudesta/Math-M
 - Twitter: [@DestaHaftamu](https://twitter.com/DestaHftamu?t=NQ4ovkdWbsfsjh62NFEXFg&s=09)
 - LinkedIn: [Haftamu Desta](https://www.linkedin.com/in/haftamu-desta-795791a1/)
 
-👥 **Henschel Nketchogue M.**
-
-- GitHub: [miltonHenschel](https://github.com/miltonHenschel)
-- LinkedIn: [henschelnketchoguem](https://www.linkedin.com/in/henschelnketchoguem/)
-- Twitter: [nketchogue](https://twitter.com/nketchogue)
-- Instagram: [mpatchiehenschel](https://www.instagram.com/mpatchiehenschel/)
-
-```
+👥**Julio Quezada**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,11 +153,11 @@ Contributions, issues, and feature requests are welcome!
 
 - **Can I publish this project as mine?**
 
-   - No, but you can use it as an inspiration or for educational purposes.
+  - No, but you can use it as an inspiration or for educational purposes.
 
 - **Can I modify it while practicing?**
 
-   - Yes, you can do it, but make sure that you know what are you doing, we never know when we can get stuck at some point just because we were playing with the code *-laughs-*
+  - Yes, you can do it, but make sure that you know what are you doing, we never know when we can get stuck at some point just because we were playing with the code _-laughs-_
 
    <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
