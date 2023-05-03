@@ -4,31 +4,24 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-
-  - [🛠 Built With](#built-with)
-
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Math Magicians](#-math-magicians)
+  - [🛠 Built With](#-built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-
-  - [🚀 Live Demo](#live-demo)
-
-- [💻 Getting Started](#getting-started)
-
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+  - [🚀 Live Demo](#-live-demo)
+  - [💻 Getting Started](#-getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [👥 Authors](#-authors)
+  - [🔭 Future Features](#-future-features)
+  - [🤝 Contributing](#-contributing)
+  - [⭐️ Show your support](#️-show-your-support)
+  - [🙏 Acknowledgments](#-acknowledgments)
+  - [❓ FAQ](#-faq)
+  - [📝 License](#-license)
 
 # 📖 Math Magicians
 
@@ -120,8 +113,12 @@ To run the project,clone the project from https://github.com/haftamudesta/Math-M
 - Twitter: [@DestaHaftamu](https://twitter.com/DestaHftamu?t=NQ4ovkdWbsfsjh62NFEXFg&s=09)
 - LinkedIn: [Haftamu Desta](https://www.linkedin.com/in/haftamu-desta-795791a1/)
 
-👥**Julio Quezada**
+👤 **Julio Quezada**
 
+- GitHub: [Alejandroq12](https://github.com/Alejandroq12)
+- Twitter: [@JulioAle54](https://twitter.com/JulioAle54)
+- LinkedIn: [Julio Quezada](https://www.linkedin.com/in/quezadajulio/)
+- 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features
